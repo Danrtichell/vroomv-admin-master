@@ -1,0 +1,4 @@
+"date","email","to","zone","location"
+"2021-01-01 03:00","agent@sample.com","office","CEBU CITY - BACAYAN","Jollibee Mandaue"
+"2021-01-01 03:00","test@3test.com","office","North Zone 1","invalid"
+"2021-01-02 03:00","test@3test.coma","home","North Zone 1","Jollibees"

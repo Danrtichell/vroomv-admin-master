@@ -1,0 +1,5 @@
+export { default as DashboardLayout } from './Layout/Dashboard'
+export { default as AuthLayout } from './Layout/Auth'
+export { default as PrivateRoute } from './PrivateRoute'
+export { default as NotFound } from './NotFound'
+export { default as IOSSwitch } from './IOSSwitch'
